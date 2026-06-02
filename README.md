@@ -1,7 +1,7 @@
 # Assign statuses to Eloquent models
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/laravel-model-status.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-model-status)
-![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/spatie/laravel-model-status/run-tests.yml?branch=main&label=tests&style=flat-square)
+![GitHub Workflow Status](https://github.com/spatie/laravel-model-status/actions/workflows/run-tests.yml/badge.svg)
 ![Check & fix styling](https://github.com/spatie/laravel-model-status/workflows/Check%20&%20fix%20styling/badge.svg)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/laravel-model-status.svg?style=flat-square)](https://packagist.org/packages/spatie/laravel-model-status)
 
